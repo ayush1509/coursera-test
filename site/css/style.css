@@ -172,6 +172,12 @@ section {
   .three{
     width:95%
 }
+.one {
+    margin-bottom: 20px;
+}
+.two{
+    margin-bottom: 20px;
+}
 }
 @media (max-width:767px){
     .one, .two , .three {
